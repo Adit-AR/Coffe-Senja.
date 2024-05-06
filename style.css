@@ -144,14 +144,15 @@ body {
 }
 
 .hero .content p {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 200;
   text-shadow: 2px 2px 3px rgba(1.5, 1.5, 3, 0.7);
   text-align: center;
-  margin-left: -5rem;
+  margin-left: -2rem;
   margin-top: 0.8rem;
   word-spacing: -0.2rem;
   line-height: 1.6rem;
+  max-width: 35rem;
 }
 
 .hero .content p span {
@@ -492,16 +493,19 @@ body {
   }
 
   .hero {
-    width: 107%;
+    width: 100%;
   }
 
   .hero .content h1 {
-    font-size: 2.5rem;
-    margin-left: -3rem;
+    font-size: 2.6rem;
+    margin-left: -1.4rem;
+    margin-bottom: -0.2rem;
   }
 
   .hero .content p {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
+    max-width: 34rem;
+    margin-left: 3.9rem;
   }
 
   .Tentang .Tentang-main {
